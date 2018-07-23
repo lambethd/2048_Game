@@ -1,0 +1,17 @@
+C:\Users\david_000\Documents\Visual Studio 2015\Projects\2048\2048Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\david_000\Documents\Visual Studio 2015\Projects\2048\2048Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\david_000\Documents\Visual Studio 2015\Projects\2048\2048Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\david_000\Documents\Visual Studio 2015\Projects\2048\2048Test\bin\Debug\2048Test.dll
+C:\Users\david_000\Documents\Visual Studio 2015\Projects\2048\2048Test\bin\Debug\2048Test.pdb
+C:\Users\david_000\Documents\Visual Studio 2015\Projects\2048\2048Test\bin\Debug\2048.exe
+C:\Users\david_000\Documents\Visual Studio 2015\Projects\2048\2048Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\david_000\Documents\Visual Studio 2015\Projects\2048\2048Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\david_000\Documents\Visual Studio 2015\Projects\2048\2048Test\bin\Debug\2048.pdb
+C:\Users\david_000\Documents\Visual Studio 2015\Projects\2048\2048Test\bin\Debug\2048.exe.config
+C:\Users\david_000\Documents\Visual Studio 2015\Projects\2048\2048Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\david_000\Documents\Visual Studio 2015\Projects\2048\2048Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\david_000\Documents\Visual Studio 2015\Projects\2048\2048Test\obj\Debug\2048Test.csprojAssemblyReference.cache
+C:\Users\david_000\Documents\Visual Studio 2015\Projects\2048\2048Test\obj\Debug\2048Test.csproj.CoreCompileInputs.cache
+C:\Users\david_000\Documents\Visual Studio 2015\Projects\2048\2048Test\obj\Debug\2048Test.csproj.CopyComplete
+C:\Users\david_000\Documents\Visual Studio 2015\Projects\2048\2048Test\obj\Debug\2048Test.dll
+C:\Users\david_000\Documents\Visual Studio 2015\Projects\2048\2048Test\obj\Debug\2048Test.pdb

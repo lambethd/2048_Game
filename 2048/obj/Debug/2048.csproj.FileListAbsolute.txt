@@ -1,0 +1,10 @@
+c:\users\david_000\documents\visual studio 2015\Projects\2048\2048\bin\Debug\2048.exe.config
+c:\users\david_000\documents\visual studio 2015\Projects\2048\2048\bin\Debug\2048.exe
+c:\users\david_000\documents\visual studio 2015\Projects\2048\2048\bin\Debug\2048.pdb
+c:\users\david_000\documents\visual studio 2015\Projects\2048\2048\obj\Debug\_2048.Form1.resources
+c:\users\david_000\documents\visual studio 2015\Projects\2048\2048\obj\Debug\_2048.Properties.Resources.resources
+c:\users\david_000\documents\visual studio 2015\Projects\2048\2048\obj\Debug\2048.csproj.GenerateResource.Cache
+c:\users\david_000\documents\visual studio 2015\Projects\2048\2048\obj\Debug\2048.exe
+c:\users\david_000\documents\visual studio 2015\Projects\2048\2048\obj\Debug\2048.pdb
+C:\Users\david_000\Documents\Visual Studio 2015\Projects\2048\2048\obj\Debug\2048.csprojAssemblyReference.cache
+C:\Users\david_000\Documents\Visual Studio 2015\Projects\2048\2048\obj\Debug\2048.csproj.CoreCompileInputs.cache
